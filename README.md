@@ -1,4 +1,4 @@
-# Tilly — Legal
+# Tilly - Legal
 
 This repository hosts the public legal documents for Tilly, a calm,
 private pregnancy and early-parenthood companion app for Australian
