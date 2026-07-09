@@ -6,7 +6,7 @@ families, published by Tilly Health.
 
 ## Contents
 
-- **privacy.html** — Tilly's Privacy Policy
+- **privacy.html** - Tilly's Privacy Policy
 
 ## About Tilly
 
